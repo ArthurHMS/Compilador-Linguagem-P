@@ -1,14 +1,3 @@
-fn soma(x: int, y: int) -> int {
-    return x + y;
-}
-fn main(){
-    let a, b, c: int;
-    b = 40;
-    c = 39;
-    a = soma(b, c);
-    println("valor = %d", a);
-}
-
 fn calculadora(op: char, x: float, y: float) -> float {
     if op == '+' {
         return x + y;
@@ -20,25 +9,17 @@ fn calculadora(op: char, x: float, y: float) -> float {
         return x * y;
     }
     else if op == '/' {
-        if y == 0.0 {
+        if y == 0 {
             return 0.0;
         }
         return x / y;
     }
     return 0.0;
 }
-fn main(){
+
+fn main(){ 
     let a, b: float;
     a = 1.8;
     b = 7.2;
-    println("%f", calculadora('*', a, b));
-}
-
-fn main(){
-    let i: int;
-    i = 0;
-    while i < 10 {
-        println("%d", i);
-        i = i + 1;
-    }
+    println("{}", calculadora('*', a, b));
 }

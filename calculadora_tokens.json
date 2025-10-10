@@ -1,0 +1,567 @@
+[
+  {
+    "token": "FUNCTION",
+    "linha": 1,
+    "lexema": "fn"
+  },
+  {
+    "token": "ID",
+    "linha": 1,
+    "lexema": "calculadora"
+  },
+  {
+    "token": "LBRACKET",
+    "linha": 1,
+    "lexema": "("
+  },
+  {
+    "token": "ID",
+    "linha": 1,
+    "lexema": "op"
+  },
+  {
+    "token": "COLON",
+    "linha": 1,
+    "lexema": ":"
+  },
+  {
+    "token": "CHAR",
+    "linha": 1,
+    "lexema": "char"
+  },
+  {
+    "token": "COMMA",
+    "linha": 1,
+    "lexema": ","
+  },
+  {
+    "token": "ID",
+    "linha": 1,
+    "lexema": "x"
+  },
+  {
+    "token": "COLON",
+    "linha": 1,
+    "lexema": ":"
+  },
+  {
+    "token": "FLOAT",
+    "linha": 1,
+    "lexema": "float"
+  },
+  {
+    "token": "COMMA",
+    "linha": 1,
+    "lexema": ","
+  },
+  {
+    "token": "ID",
+    "linha": 1,
+    "lexema": "y"
+  },
+  {
+    "token": "COLON",
+    "linha": 1,
+    "lexema": ":"
+  },
+  {
+    "token": "FLOAT",
+    "linha": 1,
+    "lexema": "float"
+  },
+  {
+    "token": "RBRACKET",
+    "linha": 1,
+    "lexema": ")"
+  },
+  {
+    "token": "ARROW",
+    "linha": 1,
+    "lexema": "->"
+  },
+  {
+    "token": "FLOAT",
+    "linha": 1,
+    "lexema": "float"
+  },
+  {
+    "token": "LBRACE",
+    "linha": 1,
+    "lexema": "{"
+  },
+  {
+    "token": "IF",
+    "linha": 2,
+    "lexema": "if"
+  },
+  {
+    "token": "ID",
+    "linha": 2,
+    "lexema": "op"
+  },
+  {
+    "token": "EQ",
+    "linha": 2,
+    "lexema": "=="
+  },
+  {
+    "token": "CHAR_LITERAL",
+    "linha": 2,
+    "lexema": "'+'"
+  },
+  {
+    "token": "LBRACE",
+    "linha": 2,
+    "lexema": "{"
+  },
+  {
+    "token": "RETURN",
+    "linha": 3,
+    "lexema": "return"
+  },
+  {
+    "token": "ID",
+    "linha": 3,
+    "lexema": "x"
+  },
+  {
+    "token": "PLUS",
+    "linha": 3,
+    "lexema": "+"
+  },
+  {
+    "token": "ID",
+    "linha": 3,
+    "lexema": "y"
+  },
+  {
+    "token": "SEMICOLON",
+    "linha": 3,
+    "lexema": ";"
+  },
+  {
+    "token": "RBRACE",
+    "linha": 4,
+    "lexema": "}"
+  },
+  {
+    "token": "ELSE",
+    "linha": 5,
+    "lexema": "else"
+  },
+  {
+    "token": "IF",
+    "linha": 5,
+    "lexema": "if"
+  },
+  {
+    "token": "ID",
+    "linha": 5,
+    "lexema": "op"
+  },
+  {
+    "token": "EQ",
+    "linha": 5,
+    "lexema": "=="
+  },
+  {
+    "token": "CHAR_LITERAL",
+    "linha": 5,
+    "lexema": "'-'"
+  },
+  {
+    "token": "LBRACE",
+    "linha": 5,
+    "lexema": "{"
+  },
+  {
+    "token": "RETURN",
+    "linha": 6,
+    "lexema": "return"
+  },
+  {
+    "token": "ID",
+    "linha": 6,
+    "lexema": "x"
+  },
+  {
+    "token": "MINUS",
+    "linha": 6,
+    "lexema": "-"
+  },
+  {
+    "token": "ID",
+    "linha": 6,
+    "lexema": "y"
+  },
+  {
+    "token": "SEMICOLON",
+    "linha": 6,
+    "lexema": ";"
+  },
+  {
+    "token": "RBRACE",
+    "linha": 7,
+    "lexema": "}"
+  },
+  {
+    "token": "ELSE",
+    "linha": 8,
+    "lexema": "else"
+  },
+  {
+    "token": "IF",
+    "linha": 8,
+    "lexema": "if"
+  },
+  {
+    "token": "ID",
+    "linha": 8,
+    "lexema": "op"
+  },
+  {
+    "token": "EQ",
+    "linha": 8,
+    "lexema": "=="
+  },
+  {
+    "token": "CHAR_LITERAL",
+    "linha": 8,
+    "lexema": "'*'"
+  },
+  {
+    "token": "LBRACE",
+    "linha": 8,
+    "lexema": "{"
+  },
+  {
+    "token": "RETURN",
+    "linha": 9,
+    "lexema": "return"
+  },
+  {
+    "token": "ID",
+    "linha": 9,
+    "lexema": "x"
+  },
+  {
+    "token": "MULT",
+    "linha": 9,
+    "lexema": "*"
+  },
+  {
+    "token": "ID",
+    "linha": 9,
+    "lexema": "y"
+  },
+  {
+    "token": "SEMICOLON",
+    "linha": 9,
+    "lexema": ";"
+  },
+  {
+    "token": "RBRACE",
+    "linha": 10,
+    "lexema": "}"
+  },
+  {
+    "token": "ELSE",
+    "linha": 11,
+    "lexema": "else"
+  },
+  {
+    "token": "IF",
+    "linha": 11,
+    "lexema": "if"
+  },
+  {
+    "token": "ID",
+    "linha": 11,
+    "lexema": "op"
+  },
+  {
+    "token": "EQ",
+    "linha": 11,
+    "lexema": "=="
+  },
+  {
+    "token": "CHAR_LITERAL",
+    "linha": 11,
+    "lexema": "'/'"
+  },
+  {
+    "token": "LBRACE",
+    "linha": 11,
+    "lexema": "{"
+  },
+  {
+    "token": "IF",
+    "linha": 12,
+    "lexema": "if"
+  },
+  {
+    "token": "ID",
+    "linha": 12,
+    "lexema": "y"
+  },
+  {
+    "token": "EQ",
+    "linha": 12,
+    "lexema": "=="
+  },
+  {
+    "token": "INT_CONST",
+    "linha": 12,
+    "lexema": "0"
+  },
+  {
+    "token": "LBRACE",
+    "linha": 12,
+    "lexema": "{"
+  },
+  {
+    "token": "RETURN",
+    "linha": 13,
+    "lexema": "return"
+  },
+  {
+    "token": "FLOAT_CONST",
+    "linha": 13,
+    "lexema": "0.0"
+  },
+  {
+    "token": "SEMICOLON",
+    "linha": 13,
+    "lexema": ";"
+  },
+  {
+    "token": "RBRACE",
+    "linha": 14,
+    "lexema": "}"
+  },
+  {
+    "token": "RETURN",
+    "linha": 15,
+    "lexema": "return"
+  },
+  {
+    "token": "ID",
+    "linha": 15,
+    "lexema": "x"
+  },
+  {
+    "token": "DIV",
+    "linha": 15,
+    "lexema": "/"
+  },
+  {
+    "token": "ID",
+    "linha": 15,
+    "lexema": "y"
+  },
+  {
+    "token": "SEMICOLON",
+    "linha": 15,
+    "lexema": ";"
+  },
+  {
+    "token": "RBRACE",
+    "linha": 16,
+    "lexema": "}"
+  },
+  {
+    "token": "RETURN",
+    "linha": 17,
+    "lexema": "return"
+  },
+  {
+    "token": "FLOAT_CONST",
+    "linha": 17,
+    "lexema": "0.0"
+  },
+  {
+    "token": "SEMICOLON",
+    "linha": 17,
+    "lexema": ";"
+  },
+  {
+    "token": "RBRACE",
+    "linha": 18,
+    "lexema": "}"
+  },
+  {
+    "token": "FUNCTION",
+    "linha": 20,
+    "lexema": "fn"
+  },
+  {
+    "token": "MAIN",
+    "linha": 20,
+    "lexema": "main"
+  },
+  {
+    "token": "LBRACKET",
+    "linha": 20,
+    "lexema": "("
+  },
+  {
+    "token": "RBRACKET",
+    "linha": 20,
+    "lexema": ")"
+  },
+  {
+    "token": "LBRACE",
+    "linha": 20,
+    "lexema": "{"
+  },
+  {
+    "token": "LET",
+    "linha": 21,
+    "lexema": "let"
+  },
+  {
+    "token": "ID",
+    "linha": 21,
+    "lexema": "a"
+  },
+  {
+    "token": "COMMA",
+    "linha": 21,
+    "lexema": ","
+  },
+  {
+    "token": "ID",
+    "linha": 21,
+    "lexema": "b"
+  },
+  {
+    "token": "COLON",
+    "linha": 21,
+    "lexema": ":"
+  },
+  {
+    "token": "FLOAT",
+    "linha": 21,
+    "lexema": "float"
+  },
+  {
+    "token": "SEMICOLON",
+    "linha": 21,
+    "lexema": ";"
+  },
+  {
+    "token": "ID",
+    "linha": 22,
+    "lexema": "a"
+  },
+  {
+    "token": "ASSIGN",
+    "linha": 22,
+    "lexema": "="
+  },
+  {
+    "token": "FLOAT_CONST",
+    "linha": 22,
+    "lexema": "1.8"
+  },
+  {
+    "token": "SEMICOLON",
+    "linha": 22,
+    "lexema": ";"
+  },
+  {
+    "token": "ID",
+    "linha": 23,
+    "lexema": "b"
+  },
+  {
+    "token": "ASSIGN",
+    "linha": 23,
+    "lexema": "="
+  },
+  {
+    "token": "FLOAT_CONST",
+    "linha": 23,
+    "lexema": "7.2"
+  },
+  {
+    "token": "SEMICOLON",
+    "linha": 23,
+    "lexema": ";"
+  },
+  {
+    "token": "PRINTLN",
+    "linha": 24,
+    "lexema": "println"
+  },
+  {
+    "token": "LBRACKET",
+    "linha": 24,
+    "lexema": "("
+  },
+  {
+    "token": "FMT_STRING",
+    "linha": 24,
+    "lexema": "\"{}\""
+  },
+  {
+    "token": "COMMA",
+    "linha": 24,
+    "lexema": ","
+  },
+  {
+    "token": "ID",
+    "linha": 24,
+    "lexema": "calculadora"
+  },
+  {
+    "token": "LBRACKET",
+    "linha": 24,
+    "lexema": "("
+  },
+  {
+    "token": "CHAR_LITERAL",
+    "linha": 24,
+    "lexema": "'*'"
+  },
+  {
+    "token": "COMMA",
+    "linha": 24,
+    "lexema": ","
+  },
+  {
+    "token": "ID",
+    "linha": 24,
+    "lexema": "a"
+  },
+  {
+    "token": "COMMA",
+    "linha": 24,
+    "lexema": ","
+  },
+  {
+    "token": "ID",
+    "linha": 24,
+    "lexema": "b"
+  },
+  {
+    "token": "RBRACKET",
+    "linha": 24,
+    "lexema": ")"
+  },
+  {
+    "token": "RBRACKET",
+    "linha": 24,
+    "lexema": ")"
+  },
+  {
+    "token": "SEMICOLON",
+    "linha": 24,
+    "lexema": ";"
+  },
+  {
+    "token": "RBRACE",
+    "linha": 25,
+    "lexema": "}"
+  }
+]
