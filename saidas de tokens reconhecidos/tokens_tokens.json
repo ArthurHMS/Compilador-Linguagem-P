@@ -168,5 +168,10 @@
     "token": "FMT_STRING",
     "linha": 7,
     "lexema": "\"{}\""
+  },
+  {
+    "token": "EOF",
+    "linha": 8,
+    "lexema": ""
   }
 ]

@@ -168,5 +168,10 @@
     "token": "RBRACE",
     "linha": 8,
     "lexema": "}"
+  },
+  {
+    "token": "EOF",
+    "linha": 8,
+    "lexema": ""
   }
 ]

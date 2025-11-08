@@ -1,0 +1,8 @@
+{
+  "arquivo": "lexical_error.p",
+  "valido": false,
+  "total_erros": 1,
+  "erros": [
+    "Linha 6: Esperado 'RBRACKET', encontrado 'FMT_STRING'"
+  ]
+}

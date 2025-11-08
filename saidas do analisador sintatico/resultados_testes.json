@@ -1,0 +1,45 @@
+[
+  {
+    "arquivo": "loop_simples.p",
+    "valido": true,
+    "erros": 0,
+    "mensagens_erro": []
+  },
+  {
+    "arquivo": "media.p",
+    "valido": true,
+    "erros": 0,
+    "mensagens_erro": []
+  },
+  {
+    "arquivo": "soma.p",
+    "valido": true,
+    "erros": 0,
+    "mensagens_erro": []
+  },
+  {
+    "arquivo": "calculadora.p",
+    "valido": true,
+    "erros": 0,
+    "mensagens_erro": []
+  },
+  {
+    "arquivo": "tokens.p",
+    "valido": false,
+    "erros": 4,
+    "mensagens_erro": [
+      "Linha 1: Esperado 'LBRACKET', encontrado 'LET'",
+      "Linha 3: Esperado 'RBRACKET', encontrado 'RBRACE'",
+      "Linha 3: Esperado 'LBRACE', encontrado 'RBRACE'",
+      "Linha 3: Esperado fim de arquivo"
+    ]
+  },
+  {
+    "arquivo": "lexical_error.p",
+    "valido": false,
+    "erros": 1,
+    "mensagens_erro": [
+      "Linha 6: Esperado 'RBRACKET', encontrado 'FMT_STRING'"
+    ]
+  }
+]

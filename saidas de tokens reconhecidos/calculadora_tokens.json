@@ -563,5 +563,10 @@
     "token": "RBRACE",
     "linha": 25,
     "lexema": "}"
+  },
+  {
+    "token": "EOF",
+    "linha": 25,
+    "lexema": ""
   }
 ]

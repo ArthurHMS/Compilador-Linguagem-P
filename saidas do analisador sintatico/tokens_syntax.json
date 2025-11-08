@@ -1,0 +1,11 @@
+{
+  "arquivo": "tokens.p",
+  "valido": false,
+  "total_erros": 4,
+  "erros": [
+    "Linha 1: Esperado 'LBRACKET', encontrado 'LET'",
+    "Linha 3: Esperado 'RBRACKET', encontrado 'RBRACE'",
+    "Linha 3: Esperado 'LBRACE', encontrado 'RBRACE'",
+    "Linha 3: Esperado fim de arquivo"
+  ]
+}
