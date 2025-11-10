@@ -1,0 +1,73 @@
+{
+  "tabelas": [
+    {
+      "escopo": "soma",
+      "ret_type": "int",
+      "simbolos": [
+        {
+          "nome": "soma",
+          "tipo": "function",
+          "categoria": "variavel",
+          "linha": 1,
+          "pos_param": -1,
+          "chamadas": []
+        },
+        {
+          "nome": "x",
+          "tipo": "int",
+          "categoria": "parametro",
+          "linha": 1,
+          "pos_param": 0,
+          "chamadas": []
+        },
+        {
+          "nome": "y",
+          "tipo": "int",
+          "categoria": "parametro",
+          "linha": 1,
+          "pos_param": 1,
+          "chamadas": []
+        }
+      ]
+    },
+    {
+      "escopo": "main",
+      "ret_type": "void",
+      "simbolos": [
+        {
+          "nome": "main",
+          "tipo": "function",
+          "categoria": "variavel",
+          "linha": 5,
+          "pos_param": -1,
+          "chamadas": []
+        },
+        {
+          "nome": "a",
+          "tipo": "int",
+          "categoria": "variavel",
+          "linha": 6,
+          "pos_param": -1,
+          "chamadas": []
+        },
+        {
+          "nome": "b",
+          "tipo": "int",
+          "categoria": "variavel",
+          "linha": 6,
+          "pos_param": -1,
+          "chamadas": []
+        },
+        {
+          "nome": "c",
+          "tipo": "int",
+          "categoria": "variavel",
+          "linha": 6,
+          "pos_param": -1,
+          "chamadas": []
+        }
+      ]
+    }
+  ],
+  "arquivo": "soma.p"
+}

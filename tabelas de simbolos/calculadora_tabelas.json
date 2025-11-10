@@ -1,0 +1,73 @@
+{
+  "tabelas": [
+    {
+      "escopo": "calculadora",
+      "ret_type": "float",
+      "simbolos": [
+        {
+          "nome": "calculadora",
+          "tipo": "function",
+          "categoria": "variavel",
+          "linha": 1,
+          "pos_param": -1,
+          "chamadas": []
+        },
+        {
+          "nome": "op",
+          "tipo": "char",
+          "categoria": "parametro",
+          "linha": 1,
+          "pos_param": 0,
+          "chamadas": []
+        },
+        {
+          "nome": "x",
+          "tipo": "float",
+          "categoria": "parametro",
+          "linha": 1,
+          "pos_param": 1,
+          "chamadas": []
+        },
+        {
+          "nome": "y",
+          "tipo": "float",
+          "categoria": "parametro",
+          "linha": 1,
+          "pos_param": 2,
+          "chamadas": []
+        }
+      ]
+    },
+    {
+      "escopo": "main",
+      "ret_type": "void",
+      "simbolos": [
+        {
+          "nome": "main",
+          "tipo": "function",
+          "categoria": "variavel",
+          "linha": 20,
+          "pos_param": -1,
+          "chamadas": []
+        },
+        {
+          "nome": "a",
+          "tipo": "float",
+          "categoria": "variavel",
+          "linha": 21,
+          "pos_param": -1,
+          "chamadas": []
+        },
+        {
+          "nome": "b",
+          "tipo": "float",
+          "categoria": "variavel",
+          "linha": 21,
+          "pos_param": -1,
+          "chamadas": []
+        }
+      ]
+    }
+  ],
+  "arquivo": "calculadora.p"
+}
