@@ -1,0 +1,18 @@
+ARQUIVO: media.p
+================================================================================
+
+TABELA DE SÍMBOLOS: main
+--------------------------------------------------------------------------------
+Chave           Nome            Tipo         Parâmetro  Pos_Param  Chamadas
+--------------------------------------------------------------------------------
+main            main            function     Não        -1         NULL
+a               a               float        Não        -1         NULL
+b               b               float        Não        -1         NULL
+c               c               float        Não        -1         NULL
+media           media           float        Não        -1         NULL
+println         println         function     Não        -1         println()
+
+ret_type(main): void
+
+================================================================================
+

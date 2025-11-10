@@ -1,8 +1,0 @@
-{
-  "arquivo": "calculadora.p",
-  "valido": false,
-  "total_erros": 1,
-  "erros": [
-    "Linha 24: Esperado 'RBRACKET', encontrado 'LBRACKET'"
-  ]
-}

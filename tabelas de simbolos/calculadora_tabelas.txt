@@ -1,0 +1,29 @@
+ARQUIVO: calculadora.p
+================================================================================
+
+TABELA DE SÍMBOLOS: calculadora
+--------------------------------------------------------------------------------
+Chave           Nome            Tipo         Parâmetro  Pos_Param  Chamadas
+--------------------------------------------------------------------------------
+calculadora     calculadora     function     Não        -1         NULL
+op              op              char         Sim        0          NULL
+x               x               float        Sim        1          NULL
+y               y               float        Sim        2          NULL
+
+ret_type(calculadora): float
+
+================================================================================
+
+TABELA DE SÍMBOLOS: main
+--------------------------------------------------------------------------------
+Chave           Nome            Tipo         Parâmetro  Pos_Param  Chamadas
+--------------------------------------------------------------------------------
+main            main            function     Não        -1         NULL
+a               a               float        Não        -1         NULL
+b               b               float        Não        -1         NULL
+println         println         function     Não        -1         println()
+
+ret_type(main): void
+
+================================================================================
+

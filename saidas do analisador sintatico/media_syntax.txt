@@ -1,0 +1,3 @@
+Arquivo: media.p
+Status: VÁLIDO
+Não foram encontrados erros sintáticos.

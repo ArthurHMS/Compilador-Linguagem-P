@@ -1,0 +1,17 @@
+ARQUIVO: lexical_error.p
+================================================================================
+
+TABELA DE SÍMBOLOS: main
+--------------------------------------------------------------------------------
+Chave           Nome            Tipo         Parâmetro  Pos_Param  Chamadas
+--------------------------------------------------------------------------------
+main            main            function     Não        -1         NULL
+a               a               int          Não        -1         NULL
+b               b               int          Não        -1         NULL
+c               c               int          Não        -1         NULL
+print           print           function     Não        -1         print()
+
+ret_type(main): void
+
+================================================================================
+
