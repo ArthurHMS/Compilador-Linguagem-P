@@ -1,0 +1,61 @@
+{
+  "arquivo": "soma.p",
+  "funcoes": {
+    "soma": {
+      "tipo": "function",
+      "valor": "soma",
+      "tipo_dado": "int",
+      "filhos": [
+        {
+          "tipo": "comando_return",
+          "valor": null,
+          "tipo_dado": null,
+          "filhos": []
+        }
+      ]
+    },
+    "main": {
+      "tipo": "function",
+      "valor": "main",
+      "tipo_dado": null,
+      "filhos": [
+        {
+          "tipo": "declaracao",
+          "valor": "a",
+          "tipo_dado": "int",
+          "filhos": []
+        },
+        {
+          "tipo": "declaracao",
+          "valor": "b",
+          "tipo_dado": "int",
+          "filhos": []
+        },
+        {
+          "tipo": "declaracao",
+          "valor": "c",
+          "tipo_dado": "int",
+          "filhos": []
+        },
+        {
+          "tipo": "atribuicao",
+          "valor": "b",
+          "tipo_dado": null,
+          "filhos": []
+        },
+        {
+          "tipo": "atribuicao",
+          "valor": "c",
+          "tipo_dado": null,
+          "filhos": []
+        },
+        {
+          "tipo": "atribuicao",
+          "valor": "a",
+          "tipo_dado": null,
+          "filhos": []
+        }
+      ]
+    }
+  }
+}

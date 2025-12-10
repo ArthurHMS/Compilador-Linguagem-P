@@ -1,0 +1,8 @@
+# Requirements for Compilador - Linguagem P
+# Python packages needed for running the compiler
+
+# Jupyter Notebook
+# jupyter>=1.0.0
+
+# Observação: O compilador funciona apenas com a biblioteca padrão do Python
+# Não há dependências obrigatórias além de Python 3.x

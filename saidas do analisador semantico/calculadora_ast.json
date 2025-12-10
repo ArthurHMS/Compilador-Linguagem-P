@@ -1,0 +1,114 @@
+{
+  "arquivo": "calculadora.p",
+  "funcoes": {
+    "calculadora": {
+      "tipo": "function",
+      "valor": "calculadora",
+      "tipo_dado": "float",
+      "filhos": [
+        {
+          "tipo": "comando_if",
+          "valor": null,
+          "tipo_dado": null,
+          "filhos": [
+            {
+              "tipo": "comando_return",
+              "valor": null,
+              "tipo_dado": null,
+              "filhos": []
+            },
+            {
+              "tipo": "comando_if",
+              "valor": null,
+              "tipo_dado": null,
+              "filhos": [
+                {
+                  "tipo": "comando_return",
+                  "valor": null,
+                  "tipo_dado": null,
+                  "filhos": []
+                },
+                {
+                  "tipo": "comando_if",
+                  "valor": null,
+                  "tipo_dado": null,
+                  "filhos": [
+                    {
+                      "tipo": "comando_return",
+                      "valor": null,
+                      "tipo_dado": null,
+                      "filhos": []
+                    },
+                    {
+                      "tipo": "comando_if",
+                      "valor": null,
+                      "tipo_dado": null,
+                      "filhos": [
+                        {
+                          "tipo": "comando_if",
+                          "valor": null,
+                          "tipo_dado": null,
+                          "filhos": [
+                            {
+                              "tipo": "comando_return",
+                              "valor": null,
+                              "tipo_dado": null,
+                              "filhos": []
+                            }
+                          ]
+                        },
+                        {
+                          "tipo": "comando_return",
+                          "valor": null,
+                          "tipo_dado": null,
+                          "filhos": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "comando_return",
+          "valor": null,
+          "tipo_dado": null,
+          "filhos": []
+        }
+      ]
+    },
+    "main": {
+      "tipo": "function",
+      "valor": "main",
+      "tipo_dado": null,
+      "filhos": [
+        {
+          "tipo": "declaracao",
+          "valor": "a",
+          "tipo_dado": "float",
+          "filhos": []
+        },
+        {
+          "tipo": "declaracao",
+          "valor": "b",
+          "tipo_dado": "float",
+          "filhos": []
+        },
+        {
+          "tipo": "atribuicao",
+          "valor": "a",
+          "tipo_dado": null,
+          "filhos": []
+        },
+        {
+          "tipo": "atribuicao",
+          "valor": "b",
+          "tipo_dado": null,
+          "filhos": []
+        }
+      ]
+    }
+  }
+}

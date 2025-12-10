@@ -1,0 +1,60 @@
+{
+  "arquivo": "media.p",
+  "funcoes": {
+    "main": {
+      "tipo": "function",
+      "valor": "main",
+      "tipo_dado": null,
+      "filhos": [
+        {
+          "tipo": "declaracao",
+          "valor": "a",
+          "tipo_dado": "float",
+          "filhos": []
+        },
+        {
+          "tipo": "declaracao",
+          "valor": "b",
+          "tipo_dado": "float",
+          "filhos": []
+        },
+        {
+          "tipo": "declaracao",
+          "valor": "c",
+          "tipo_dado": "float",
+          "filhos": []
+        },
+        {
+          "tipo": "declaracao",
+          "valor": "media",
+          "tipo_dado": "float",
+          "filhos": []
+        },
+        {
+          "tipo": "atribuicao",
+          "valor": "a",
+          "tipo_dado": null,
+          "filhos": []
+        },
+        {
+          "tipo": "atribuicao",
+          "valor": "b",
+          "tipo_dado": null,
+          "filhos": []
+        },
+        {
+          "tipo": "atribuicao",
+          "valor": "c",
+          "tipo_dado": null,
+          "filhos": []
+        },
+        {
+          "tipo": "atribuicao",
+          "valor": "media",
+          "tipo_dado": null,
+          "filhos": []
+        }
+      ]
+    }
+  }
+}

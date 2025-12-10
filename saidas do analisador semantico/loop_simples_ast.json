@@ -1,0 +1,37 @@
+{
+  "arquivo": "loop_simples.p",
+  "funcoes": {
+    "main": {
+      "tipo": "function",
+      "valor": "main",
+      "tipo_dado": null,
+      "filhos": [
+        {
+          "tipo": "declaracao",
+          "valor": "i",
+          "tipo_dado": "int",
+          "filhos": []
+        },
+        {
+          "tipo": "atribuicao",
+          "valor": "i",
+          "tipo_dado": null,
+          "filhos": []
+        },
+        {
+          "tipo": "comando_while",
+          "valor": null,
+          "tipo_dado": null,
+          "filhos": [
+            {
+              "tipo": "atribuicao",
+              "valor": "i",
+              "tipo_dado": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
