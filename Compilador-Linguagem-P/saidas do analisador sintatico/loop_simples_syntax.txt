@@ -1,0 +1,3 @@
+Arquivo: loop_simples.p
+Status: VÁLIDO
+Não foram encontrados erros sintáticos.

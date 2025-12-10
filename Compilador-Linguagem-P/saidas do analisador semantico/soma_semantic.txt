@@ -1,0 +1,3 @@
+Arquivo: soma.p
+Status: VÁLIDO
+Não foram encontrados erros semânticos.

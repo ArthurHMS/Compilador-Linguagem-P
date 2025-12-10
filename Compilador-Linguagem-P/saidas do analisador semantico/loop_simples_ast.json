@@ -1,0 +1,11 @@
+{
+  "arquivo": "loop_simples.p",
+  "funcoes": {
+    "main": {
+      "tipo": "function",
+      "valor": "main",
+      "tipo_dado": null,
+      "filhos": []
+    }
+  }
+}

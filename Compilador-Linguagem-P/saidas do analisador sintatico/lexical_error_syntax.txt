@@ -1,0 +1,6 @@
+Arquivo: lexical_error.p
+Status: INVÁLIDO - 1 erro(s) encontrado(s)
+
+ERROS SINTÁTICOS:
+==================================================
+Linha 6: Esperado 'RBRACKET', encontrado 'FMT_STRING'

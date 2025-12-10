@@ -1,0 +1,29 @@
+ARQUIVO: soma.p
+================================================================================
+
+TABELA DE SÍMBOLOS: soma
+--------------------------------------------------------------------------------
+Chave           Nome            Tipo         Parâmetro  Pos_Param  Chamadas
+--------------------------------------------------------------------------------
+soma            soma            function     Não        -1         NULL
+x               x               int          Sim        0          NULL
+y               y               int          Sim        1          NULL
+
+ret_type(soma): int
+
+================================================================================
+
+TABELA DE SÍMBOLOS: main
+--------------------------------------------------------------------------------
+Chave           Nome            Tipo         Parâmetro  Pos_Param  Chamadas
+--------------------------------------------------------------------------------
+main            main            function     Não        -1         NULL
+a               a               int          Não        -1         NULL
+b               b               int          Não        -1         NULL
+c               c               int          Não        -1         NULL
+println         println         function     Não        -1         println()
+
+ret_type(main): void
+
+================================================================================
+

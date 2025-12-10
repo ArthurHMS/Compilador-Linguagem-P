@@ -1,0 +1,17 @@
+{
+  "arquivo": "soma.p",
+  "funcoes": {
+    "soma": {
+      "tipo": "function",
+      "valor": "soma",
+      "tipo_dado": "int",
+      "filhos": []
+    },
+    "main": {
+      "tipo": "function",
+      "valor": "main",
+      "tipo_dado": null,
+      "filhos": []
+    }
+  }
+}

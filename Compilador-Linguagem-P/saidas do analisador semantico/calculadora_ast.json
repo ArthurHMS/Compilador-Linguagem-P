@@ -1,0 +1,17 @@
+{
+  "arquivo": "calculadora.p",
+  "funcoes": {
+    "calculadora": {
+      "tipo": "function",
+      "valor": "calculadora",
+      "tipo_dado": "float",
+      "filhos": []
+    },
+    "main": {
+      "tipo": "function",
+      "valor": "main",
+      "tipo_dado": null,
+      "filhos": []
+    }
+  }
+}

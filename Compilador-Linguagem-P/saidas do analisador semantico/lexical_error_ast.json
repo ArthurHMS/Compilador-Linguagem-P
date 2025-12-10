@@ -1,0 +1,11 @@
+{
+  "arquivo": "lexical_error.p",
+  "funcoes": {
+    "main": {
+      "tipo": "function",
+      "valor": "main",
+      "tipo_dado": null,
+      "filhos": []
+    }
+  }
+}
