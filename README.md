@@ -161,10 +161,6 @@ fn main() {
 }
 ```
 
-### Executar compilador
-
-Completar aqui 
-
 ### Saídas geradas
 
 **soma_syntax.txt**
